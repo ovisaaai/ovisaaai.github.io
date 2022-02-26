@@ -2,7 +2,7 @@
 
 [Paper](https://drive.google.com/file/d/1wbRZfWiBNMZa39FLTgTgfx9pDeUawIHB/view?usp=sharing)
 
-[Poster](https://drive.google.com/file/d/1wbRZfWiBNMZa39FLTgTgfx9pDeUawIHB/view?usp=sharing)
+[Poster](https://drive.google.com/file/d/1ADr1aMP62jGu-ci8-p05GkoSfSx-kUZ-/view?usp=sharing)
 
 [Dataset](https://sliu1eu.blob.core.windows.net/maskrcnn/ovis-20211219/ovis.tar.gz)
 
